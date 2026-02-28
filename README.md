@@ -9,10 +9,10 @@ I create content in **English** and spend my time **gaming**, **coding**, and **
 
 ## 🚀 Projects & Services
 
-* | **🔒 CipherShare** | [Visit Project](http://jakpat.duckdns.org/CipherShare) |
+* | **🔒 CipherShare** | [Visit Project](https://jakpat2.github.io/CipherShare) |
 * | **🟩 jakpat-MC** | [Visit Project](http://jakpat-mc-web.duckdns.org/) |
 * | **▶ jakpat-stream** | [Visit Project](http://jakpat-stream.duckdns.org/) |
-* | **🎶 Tuna-Lyrics-OBS-Overlay** | [Visit Project](http://jakpat.duckdns.org/Tuna-Lyrics-OBS-Overlay/) |
+* | **🎶 Tuna-Lyrics-OBS-Overlay** | [Visit Project](https://jakpat2.github.io/Tuna-Lyrics-OBS-Overlay/) |
 
 ---
 
