@@ -3,16 +3,16 @@
 ### I'm **jakpat**. 
 I create content in **English** and spend my time **gaming**, **coding**, and **managing servers/services**. 
 
-🌐 **Personal Hub:** [jakpat.duckdns.org](http://jakpat.duckdns.org/)
+🌐 **Personal Hub:** [jakpat.dev](https://jakpat.dev)
 
 ---
 
 ## 🚀 Projects & Services
 
-* | **🔒 CipherShare** | [Visit Project](https://jakpat2.github.io/CipherShare) |
-* | **🟩 jakpat-MC** | [Visit Project](http://jakpat-mc-web.duckdns.org/) |
-* | **▶ jakpat-stream** | [Visit Project](http://jakpat-stream.duckdns.org/) |
-* | **🎶 Tuna-Lyrics-OBS-Overlay** | [Visit Project](https://jakpat2.github.io/Tuna-Lyrics-OBS-Overlay/) |
+* | **🔒 CipherShare** | [Visit Project](https://ciphershare.jakpat.dev) |
+* | **🟩 jakpat-MC** | [Visit Project](https://mc-web.jakpat.dev) |
+* | **▶ jakpat-stream** | [Visit Project](https://stream.jakpat.dev) |
+* | **🎶 Tuna-Lyrics-OBS-Overlay** | [Visit Project](https://jakpat.dev/Tuna-Lyrics-OBS-Overlay/) |
 
 ---
 
