@@ -13,7 +13,7 @@ I create content in **English** and spend my time **gaming**, **coding**, and **
 * | **🟩 jakpat-MC** | [Visit Project](https://mc-web.jakpat.dev) |
 * | **▶ jakpat-stream** | [Visit Project](https://stream.jakpat.dev) |
 * | **📻 jakpat-Radio** | [Visit Project](https://radio.jakpat.dev) |
-* | **🎶 Tuna-Suite** | [Visit Project](https://tuna.jakpat.dev/) |
+* | **🎶 Pulse** | [Visit Project](https://pulse.jakpat.dev/) |
 * | **🌇 Neon-Music-Visualizer** | [Visit Project](https://jakpat.dev/Neon-Music-Visualizer/) |
 
 ---
